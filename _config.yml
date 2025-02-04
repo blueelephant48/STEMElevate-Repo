@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: STEMElevate
+description: 
+owner_name: STEMElevate
+github_username: blueelephant48
+github_repo: "STEMElevate-Repo" 
+baseurl: "/STEMElevate-Repo"
 future: true
 remote_theme: jekyll/minima
 minima:
